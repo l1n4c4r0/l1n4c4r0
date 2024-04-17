@@ -1,7 +1,7 @@
 # ¡Hola, soy Lina Marcela Caro!
 <h1> Bienvenido a mi perfil de GitHub👧 </h1>
 
-<h3> 🌵 Soy programadora full stack comprometida con mi profesión, en busca de nuevos retos y unas ganas alucinantes de seguir aprendiendo día a día. 🌵</h3>
+<h3> 🌵 Soy programadora full stack comprometida con mi profesión, en busca de nuevos retos y unas ganas inmensas de seguir aprendiendo día a día. 🌵</h3>
 
 <hr>
 
@@ -26,9 +26,9 @@
 
 ## 💡Apendiendo:
 - 📝Idioma: Inglés
-- 📝Técnología en análisis y desarrollo de software
-- 📝Base de datos: Oracle Database
-- 📝Ciberseguridad
+- 📝Ingeniería de software 
+- 📝Análisis de datos 
+- 📝Java
 - 📝Inteligecia artificial
 
 ## 📊 Estadisticas GitHub:
@@ -44,4 +44,3 @@
 - ✉️: marcecaroc@gmail.com
 - 🔗: https://www.linkedin.com/in/lina-m-caro/
 - 🔗: https://torre.ai/lina-m-caro
-- 🔗:
